@@ -1,0 +1,1 @@
+[{"icon":"desktop","id":"desktop","isDefault":true,"maxWidth":null,"minWidth":null,"name":"Desktop"},{"icon":"tabletLandscape","id":"tablet","isDefault":false,"maxWidth":1024,"minWidth":null,"name":"Tablet"},{"icon":"phonePortrait","id":"mobile","isDefault":false,"maxWidth":767,"minWidth":null,"name":"Mobile"}]
